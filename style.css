@@ -1,0 +1,72 @@
+#img1{
+
+border-radius: 20px;
+margin-left: 100px;
+width: 70%;
+height: 500px;
+
+}
+
+  
+#pic2{
+ padding-right: 80px;
+
+}
+#div1{
+    border-radius: 10px;
+
+}
+#pic3{
+   margin-right: 30px;
+}
+#heading{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+#div2{
+background-color: rgb(207, 186, 227);
+    height: 300px;
+    width: 100%;
+}
+#ok1{
+    margin-left: 40px;
+}
+#ok2{
+    margin-left: 40px;
+    font-size: 25px;
+}
+#back1{
+
+height: 200px;
+    width: 100px;
+}
+
+#antic{
+
+font-size: 20px;
+font-family: arial;
+}
+#ok3{
+font-size: 20px;
+font-family: arial;
+}
+#pic1{
+margin-top: 100px;
+margin-left: 20px;
+
+}
+#heading2{
+margin-top: -250px;
+color: rgb(167, 98, 14);
+
+}
+#alien{
+margin-left: 700px;
+
+}
+#inner{
+display: flex;
+justify-content: space-between;
+justify-content: space-around;
+
+}
